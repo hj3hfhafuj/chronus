@@ -1,15 +1,15 @@
-Package: com.ShadowStonk.jw.SailyInstaller
-Version: 0.1.5
+Package: com.ShadowStonk.jw.testwidget
+Version: 0.0.1b1
 Architecture: iphoneos-arm
 Maintainer: ShadowStonk
-Filename: /debs/SailyInstaller.deb
-Size: 40031710
-SHA1: 48eb175a2889d54359530146bc5c7d2950a25e4b
-SHA256: 3d17ec4991a926e52ae7141d7d41993e57a3581fbca4d5f0fcdc631fa165cdbe
-Section: Utilities
-Description: Saily Package Manager Installer. USE AT OWN RISK THIS IS AN EARLY RELEASE YOU HAVE BEEN WARNED
+Filename: /debs/TestWidget.deb
+Size: 932
+SHA1: d39a5e55b56dbac6d2a949bbd8bc593a13fe97f8
+SHA256: 6a932951c9be01fc9ab843855ada5b826e4b011f2d73c39328fc03ff5398c619
+Section: Widgets
+Description: A test widget
 SileoDepiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
 Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
-Installed-Size: 40042496
-Name: Saily Installer (Early Release)
+Installed-Size: 4096
+Name: Chronus
 Priority: High
